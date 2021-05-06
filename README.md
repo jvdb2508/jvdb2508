@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Joachim van de Bruck from Germany
+- 👀 I’m interested in Operation Research and Artificial Intelligence.
+- 🌱 I’m currently learning Swift.
+- 💞️ I’m looking to collaborate on Software Development
+- 📫 How to reach me: joachim@vandebruck.de
